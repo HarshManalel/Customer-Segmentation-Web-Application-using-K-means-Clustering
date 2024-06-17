@@ -9,18 +9,13 @@ A web application built using Flask for market segmentation using unsupervised m
 
 Python 3.x
 
-
 Flask
-
 
 Pandas
 
-
 NumPy
 
-
 Scikit-learn
-
 
 Matplotlib
 
