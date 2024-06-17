@@ -3,14 +3,30 @@ A web application built using Flask for market segmentation using unsupervised m
 
 
 🚀 Getting Started
+
+
 🛠️ Prerequisites
+
 Python 3.x
+
+
 Flask
+
+
 Pandas
+
+
 NumPy
+
+
 Scikit-learn
+
+
 Matplotlib
+
+
 🏃‍♀️ Running the Application
+
 Clone this repository
 
 Install the prerequisites mentioned above
